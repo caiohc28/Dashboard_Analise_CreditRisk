@@ -6,6 +6,16 @@ O projeto permite acompanhar a qualidade da carteira de crédito, identificar pa
 
 ---
 
+
+## 📷 Dashboard
+
+<p align="center">
+  <img src="images/dashboard.jfif" alt="Dashboard de Análise de Risco de Crédito" width="900">
+</p>
+
+---
+
+
 ## 🎯 Objetivo
 
 Construir um dashboard gerencial que permita monitorar indicadores de risco de crédito, identificando fatores associados à inadimplência e fornecendo insights para redução da exposição ao risco.
